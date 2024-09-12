@@ -27,6 +27,7 @@ Handle necessary data cleaning tasks. This includes addressing missing dates and
 
 ### 03-data-eda
 
+**Purpose:**  
 1. Exploratory Data Analysis (EDA): Conduct initial visualisations and statistical analyses on the cleaned, non-stationary data. This includes plotting timeseries data to identify trends, seasonality and patterns to gain insights into the data.
 
 2. Seasonal Trend Decomposition: Decompose the timeseries data into its trend, seasonality and residual components to better understand the trend and patterns in the data.
