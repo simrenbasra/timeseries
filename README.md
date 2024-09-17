@@ -64,7 +64,7 @@ The goal of this project is to apply timeseries forecasting methods to Microsoft
    - However, the high volatility of stock prices, combined with unpredictable events such as COVID-19 still proves challenging for these advanced models.
 
 
-### 7. Future Work and Next Steps
+### Future Work and Next Steps
 - **Feature Engineering:**
    - Instead of predicting Close price of stocks, perhaps move to predicting whether stockholders will see a return or not on their investment.
 
