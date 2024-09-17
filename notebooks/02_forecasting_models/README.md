@@ -38,7 +38,7 @@ This notebook applies ARIMA-based models for timeseries forecasting. These model
 
 ## Cross-Validation Strategy
 
-All notebooks use cross-validation based on `TimeSeriesSplit` to ensure prper evaluation of performance. This method ensures that training and test data are split while maintaining the chronological order of the data.
+All notebooks use cross-validation based on `TimeSeriesSplit` to ensure proper evaluation of performance with no data leakage. This method ensures that training and test data are split while maintaining the chronological order of the data.
 
 ## Results Overview
 
