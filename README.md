@@ -70,3 +70,19 @@ The goal of this project is to apply timeseries forecasting methods to Microsoft
 
 - **Advanced Models:**
    - Consider incorporating other models like XGBoost or *LSTM networks to see if they are able to handle volatile data better.
+
+### How to run
+
+1. Clone the Repository:
+
+        git clone https://github.com/simrenbasra/timeseries.git
+
+2. Install dependencies
+
+        pip install -r requirements.txt
+
+   Requires env to be set up and activated as well as pip to be installed.
+
+3. Run the notebooks 
+    Open the notebooks in the notebooks/directory and follow the instructions
+    
