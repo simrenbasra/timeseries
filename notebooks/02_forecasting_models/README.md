@@ -67,3 +67,4 @@ Advanced forecasting models such as ARIMA may be needed in order to better captu
 Marginal difference in evaluation metrics across all three ARIMA models, this could be due to the high volatility of stock data.
 
 While ARIMA models are more complex and are able to capture more of the variability in the stock data, the unpredictable nature of stocks (due to some external events) makes forecasting challenging. As a result even these complex methods fail to get high accuracy in their forecasts.
+
