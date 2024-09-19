@@ -63,6 +63,11 @@ The goal of this project is to apply timeseries forecasting methods to Microsoft
    - ARIMA and SARIMA models showed better performance than baseline methods, capturing the seasonality and underlying trends in the data.
    - However, the high volatility of stock prices, combined with unpredictable events such as COVID-19 still proves challenging for these advanced models.
 
+### Docs
+
+Folder containing all static images for forecasting methods and other plotly images.
+
+Since I used Plotly for most graphs, they don’t appear in GitHub since they are interactive. To view them, you’ll need to clone the repository and run the code locally in a Python environment (see requirements.txt). For static images of the plots, please refer to the images in this folder.
 
 ### Future Work and Next Steps
 - **Feature Engineering:**
